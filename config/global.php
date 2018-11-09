@@ -1,16 +1,16 @@
 <?php
 
 //Ip de la pc servidor de base de datos
-define("DB_HOST", "mysql.hostinger.co");
+define("DB_HOST", "");
 
 //Nombre de la base de datos
-define("DB_NAME", "u733556377_dbcat");
+define("DB_NAME", "");
 
 //Usuario de la base de datos
-define("DB_USERNAME", "u733556377_usrpr");
+define("DB_USERNAME", "");
 
 //Contraseña del usuario de la base de datos
-define("DB_PASSWORD", "dbpru3b4n0v05#1105");
+define("DB_PASSWORD", "");
 
 //Definimos la codificacion de los caracteres
 define("DB_ENCODE", "utf8");
